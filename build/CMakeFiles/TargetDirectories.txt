@@ -1,0 +1,4 @@
+C:/Users/KITECH Inc/Desktop/videoslim/build/CMakeFiles/videoslim_c.dir
+C:/Users/KITECH Inc/Desktop/videoslim/build/CMakeFiles/INSTALL.dir
+C:/Users/KITECH Inc/Desktop/videoslim/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/KITECH Inc/Desktop/videoslim/build/CMakeFiles/ZERO_CHECK.dir
